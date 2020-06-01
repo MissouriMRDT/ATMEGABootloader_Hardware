@@ -294,10 +294,10 @@ Wire Wire Line
 Wire Wire Line
 	7350 3050 7300 3050
 $Comp
-L Device:Jumper JP?
+L Device:Jumper JP4
 U 1 1 5ED47E7F
 P 3950 3850
-F 0 "JP?" H 3950 3900 50  0000 C CNN
+F 0 "JP4" H 3950 3900 50  0000 C CNN
 F 1 "Jumper" H 3950 3800 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3950 3850 50  0001 C CNN
 F 3 "~" H 3950 3850 50  0001 C CNN
